@@ -24,7 +24,8 @@
                 android:id="@+id/et_oy"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:hint="search"
+                android:hint="@string/pencarian"
+                android:maxLines="1"
                 android:inputType="text" />
 
         </com.google.android.material.textfield.TextInputLayout>
